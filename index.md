@@ -1,17 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Solar Price
 
-You can use the [editor on GitHub](https://github.com/SolarPriceQuote/SolarPriceQuote.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are excited to annouce solar power system price quote beat system in Australia to help consumer get a competitive price for solar power system.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here we are preparing the project to go live [editor on GitHub](https://github.com/SolarPriceQuote/SolarPriceQuote.github.io/edit/master/index.md) 
 
-### Markdown
+Keep on eye on this to get updated.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Price Quotation Beat For Solar Power System
+This service will enable you get a price lower than what other company quoted you by simply submitting the quote that you got from other company.
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Beat Price Quote
 ## Header 2
 ### Header 3
 
